@@ -1,6 +1,6 @@
 package capitulo3.Laboratorio;
 
-public class Soma {
+public class Lab1 {
 	// Atributos
 	static int valor1;
 	static int valor2;
